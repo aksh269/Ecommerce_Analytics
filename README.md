@@ -2,6 +2,16 @@
 
 This project analyzes an e-commerce business dataset using PostgreSQL, SQL, Python, Jupyter Notebook, and Power BI. The goal is to convert raw transactional data into business insights that help explain revenue performance, customer behavior, payment preferences, delivery issues, seller concentration, and category-level risk.
 
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ETL-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 ## Business Problem
 
 E-commerce teams usually have data spread across customers, orders, payments, products, reviews, sellers, and logistics. This project brings those sources together to answer the core business questions below:
@@ -99,16 +109,6 @@ Ecommerce_Analytics/
 - `query_execution.ipynb`: Runs the analytical queries and displays results inside Jupyter.
 - `dashboard/Ecommerce dashboard.pbit`: Power BI template for the dashboard.
 - `dashboard/dashboard.pdf`: Exported dashboard report.
-
-## Tech Stack
-
-- PostgreSQL
-- SQL
-- Python
-- Pandas
-- SQLAlchemy
-- Jupyter Notebook
-- Power BI
 
 ## How To Run
 
